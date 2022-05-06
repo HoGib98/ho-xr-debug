@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.0",
-        "chevere/chevere": "~0.4",
+        "HoGib98/chevere": "~0.7",
         "chevere/throwable-handler": "~0.3",
         "chevere/trace": "~0.2",
         "chevere/var-dump": "~0.1",
