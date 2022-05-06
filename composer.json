@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "php": ">=8.0",
+        "php": ">=5.0",
         "chevere/chevere": "~0.7",
         "chevere/throwable-handler": "~0.3",
         "chevere/trace": "~0.2",
